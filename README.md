@@ -4,7 +4,7 @@
 <h2 align="center">About me</h2>
 <p align="center">I'm José Pazmiño. 24 years old. I like programming 🧑‍💻, video games 🎮 and anime ⛩️. I love solving challenges through code, exploring virtual worlds and immersing myself in anime plots. </p>
 
-- You can check my work at [https://puetate.github.io/portfolio-vue/](https://portfolio-tau-beryl-54.vercel.app)
+- You can check my work at [https://portfolio-tau-beryl-54.vercel.app](https://portfolio-tau-beryl-54.vercel.app)
 - Currently learning **Flutter, NextJS, Astro and NestJS**
 
 <h2 align="center">Technologies that I use ⚙️</h2>
