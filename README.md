@@ -1,8 +1,3 @@
-<style>
-.container {
-   display: flex; align-items: center; gap: 10px;
-}
-</style>
 <img align="center" alt="hero image" src="hero.webp"/>
 <h1 align="center">Hello there👋</h1>
 <p align="center">I'm a full stack developer. Passionate about programming and self-learning. I specialize in designing robust, interactive, scalable, and unique applications using modern technologies such as React, Next.js, Astro, Tailwind, and NestJS </p>
@@ -15,32 +10,32 @@
 <h2 align="center">Technologies that I use ⚙️</h2>
 <h3 align="center">Languages</h3>
 <div style="display: flex;  gap: 10px; justify-content: center">
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 JavaScrip
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 TypeScript
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 Python
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 PHP
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
 Dart
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 Java
 </span>
@@ -61,22 +56,22 @@ NextJS
 Astro
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
 Flutter
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
 Agular
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
 Laravel
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
 Tailwind
 </span>
@@ -84,7 +79,7 @@ Tailwind
 
 <h3 align="center">Database</h3>
 <div style="display: flex;  gap: 10px; justify-content: center">
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 MySQL
 </span>
@@ -93,12 +88,12 @@ MySQL
 PostgreSQL
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 MongoDB
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 SQLServer
 </span>
@@ -106,7 +101,7 @@ SQLServer
 
 <h3 align="center">Other tools</h3>
 <div style="display: flex;  gap: 10px; justify-content: center">
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
 Figma
 </span>
@@ -115,16 +110,16 @@ Figma
 VSCode
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 Git
 </span>
 
-<span class="container">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"/>
 Jira
 </span>
-<span class="container">
+<span align="center">
 </div>
 
 <h3 align="center">Stats</h3>
@@ -141,11 +136,9 @@ Jira
 
 <h3 align="center">Eager to join forces?</h3>
 
-<div style="display: flex; justify-content:center; align-items:center; gap: 10px">
 <h4 align="center">Get in touche through:</h4>
-<div style="display: flex; justify-content:center; gap: 10px">
+<div align="center">
 <a href="https://twitter.com/JoseP0399" target="blank"><img align="center" src="X.svg" alt="José Pazmiño" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/josé-pazmiño-6021ba25a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="jhoel.pueta" height="30" width="40" /></a>
 <a href="mailto:pepe.paz0399@gmail.com" ><img align="center" src="gmail-icon.svg" alt="jhoel.pueta" height="30" width="40" /></a>
-</div>
 </div>
