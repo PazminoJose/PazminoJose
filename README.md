@@ -9,7 +9,7 @@
 
 <h2 align="center">Technologies that I use ⚙️</h2>
 <h3 align="center">Languages</h3>
-<div style="display: flex;  gap: 10px; justify-content: center">
+<div align="center">
 <span style="display: flex; align-items: center; gap: 10px;">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 JavaScrip
@@ -35,15 +35,15 @@ PHP
 Dart
 </span>
 
-<span style="display: flex; align-items: center; gap: 10px;">
+<div align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 Java
 </span>
 </div>
 
 <h3 align="center">Frameworks</h3>
-<div style="display: flex;  gap: 10px; justify-content: center">
-<span style="display: flex; align-items: center; gap: 10px;">
+<div align="center">
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 React
 </span>
@@ -78,7 +78,7 @@ Tailwind
 </div>
 
 <h3 align="center">Database</h3>
-<div style="display: flex;  gap: 10px; justify-content: center">
+<div align="center">
 <span style="display: flex; align-items: center; gap: 10px;">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 MySQL
@@ -88,7 +88,7 @@ MySQL
 PostgreSQL
 </span>
 
-<span style="display: flex; align-items: center; gap: 10px;">
+<div align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 MongoDB
 </span>
@@ -136,11 +136,9 @@ Jira
 
 <h3 align="center">Eager to join forces?</h3>
 
-<div style="display: flex; justify-content:center; align-items:center; gap: 10px">
+<div align="center">
 <h4 align="center">Get in touche through:</h4>
-<div style="display: flex; justify-content:center; gap: 10px">
 <a href="https://twitter.com/JoseP0399" target="blank"><img align="center" src="X.svg" alt="José Pazmiño" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/josé-pazmiño-6021ba25a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="jhoel.pueta" height="30" width="40" /></a>
 <a href="mailto:pepe.paz0399@gmail.com" ><img align="center" src="gmail-icon.svg" alt="jhoel.pueta" height="30" width="40" /></a>
-</div>
 </div>
