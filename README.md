@@ -9,7 +9,7 @@
 
 <h2 align="center">Technologies that I use ⚙️</h2>
 <h3 align="center">Languages</h3>
-<div style="display: flex;  gap: 10px; justify-content: center">
+<div align="center">
 <span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 JavaScrip
@@ -42,7 +42,7 @@ Java
 </div>
 
 <h3 align="center">Frameworks</h3>
-<div style="display: flex;  gap: 10px; justify-content: center">
+<div align="center">
 <span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 React
@@ -78,7 +78,7 @@ Tailwind
 </div>
 
 <h3 align="center">Database</h3>
-<div style="display: flex;  gap: 10px; justify-content: center">
+<div align="center">
 <span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 MySQL
@@ -100,7 +100,7 @@ SQLServer
 </div>
 
 <h3 align="center">Other tools</h3>
-<div style="display: flex;  gap: 10px; justify-content: center">
+<div align="center">
 <span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
 Figma
