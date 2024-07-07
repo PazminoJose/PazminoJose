@@ -125,7 +125,7 @@ Jira
 <h3 align="center">Stats</h3>
     <div>
      <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula" alt="stat1">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PazminoJose&theme=dracula" alt="stat1">
 </p>
     <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=PazminoJose&show_icons=true&locale=en&theme=radical"
