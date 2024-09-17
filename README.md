@@ -128,7 +128,7 @@ Jira
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PazminoJose&theme=dracula" alt="stat1">
 </p>
     <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=PazminoJose&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=PazminoJose&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true"
         alt="PazminoJose" /></p>
     <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=PazminoJose&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true"
